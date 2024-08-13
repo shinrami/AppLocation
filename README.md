@@ -23,8 +23,12 @@ Backend Dev - Code Test
 
 The ENDPOINTS are the following:
 
-GET /api/locations - Retrieve all locations.
+GET /api/locations - Retrieve all locations
+
 POST /api/locations - Create a new location.
+
 GET /api/locations/{id} - Retrieve locations by ID.
+
 PUT /api/locations/{id} - Update an existing location.
+
 DELETE /api/locations/{id} - Delete a location by ID.
