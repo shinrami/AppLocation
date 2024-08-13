@@ -8,9 +8,10 @@ Backend Dev - Code Test
    cd AppLocation
 
 2. Dependencies
+   
     dotnet restore
 
-3. Database Connection
+4. Database Connection
    
    In-Memory
    
